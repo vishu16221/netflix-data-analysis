@@ -33,7 +33,7 @@ This is an end-to-end data analytics project analyzing Netflix's content catalog
 - **Power BI:** Interactive dashboard creation
 
 ## 📂 Project Structure
-- [Power BI Dashboard](Netflix_Analysis_Dashboard.pbix)
+- [Power BI Dashboard](netflix_dashboard.pbix)
 - [Python Notebook](netflix_analysis.ipynb)
 - [Raw Data](netflix_titles.csv)
 
